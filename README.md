@@ -1,5 +1,5 @@
 # hello-world
-this is just a beginning
+just a beginning
 
 the world began 13.7 billion years ago
 
